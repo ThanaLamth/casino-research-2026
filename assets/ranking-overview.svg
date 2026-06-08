@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Best US Online Casinos June 2026 ranking overview</title>
+  <desc id="desc">Editorial ranking overview for DraftKings, Caesars Palace Online, BetRivers, FanDuel, and BetMGM.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#102034"/>
+      <stop offset="100%" stop-color="#1f4b5c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <text x="90" y="110" fill="#f4efe7" font-size="48" font-family="Georgia, serif">Best US Online Casinos in June 2026</text>
+  <text x="90" y="160" fill="#c9d7db" font-size="24" font-family="Arial, sans-serif">Source-led sample ranking for regulated players</text>
+
+  <g font-family="Arial, sans-serif">
+    <rect x="90" y="220" width="1420" height="120" rx="24" fill="#f4efe7"/>
+    <text x="130" y="285" fill="#102034" font-size="28" font-weight="700">#1 DraftKings Casino</text>
+    <text x="130" y="330" fill="#26485a" font-size="22">Best overall for app experience, game depth, and official-source clarity</text>
+
+    <rect x="90" y="365" width="1420" height="100" rx="24" fill="#d8e3e6"/>
+    <text x="130" y="425" fill="#102034" font-size="26" font-weight="700">#2 Caesars Palace Online</text>
+    <text x="700" y="425" fill="#26485a" font-size="22">Best for rewards integration</text>
+
+    <rect x="90" y="485" width="1420" height="100" rx="24" fill="#d8e3e6"/>
+    <text x="130" y="545" fill="#102034" font-size="26" font-weight="700">#3 BetRivers Casino</text>
+    <text x="700" y="545" fill="#26485a" font-size="22">Best for low-playthrough promos and withdrawal tools</text>
+
+    <rect x="90" y="605" width="1420" height="100" rx="24" fill="#d8e3e6"/>
+    <text x="130" y="665" fill="#102034" font-size="26" font-weight="700">#4 FanDuel Casino</text>
+    <text x="700" y="665" fill="#26485a" font-size="22">Best for simple bonus mechanics and payout guidance</text>
+
+    <rect x="90" y="725" width="1420" height="100" rx="24" fill="#d8e3e6"/>
+    <text x="130" y="785" fill="#102034" font-size="26" font-weight="700">#5 BetMGM Casino</text>
+    <text x="700" y="785" fill="#26485a" font-size="22">Best for loyalty crossover and brand familiarity</text>
+  </g>
+</svg>

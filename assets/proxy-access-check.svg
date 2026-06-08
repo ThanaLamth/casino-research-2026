@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Proxy access check results</title>
+  <desc id="desc">US New York proxy check showing which casino sites loaded and which returned challenge pages.</desc>
+  <rect width="1600" height="900" fill="#121a21"/>
+  <text x="90" y="110" fill="#f0eadf" font-size="48" font-family="Georgia, serif">US Proxy Access Check</text>
+  <text x="90" y="158" fill="#adbfc7" font-size="24" font-family="Arial, sans-serif">IP observed: 9.142.252.244 | Geo: New York City, US | Check date: June 8, 2026</text>
+
+  <g font-family="Arial, sans-serif" font-size="26">
+    <rect x="90" y="240" width="680" height="520" rx="28" fill="#17384a"/>
+    <text x="130" y="310" fill="#f4efe7" font-size="32" font-weight="700">Accessible</text>
+    <text x="130" y="390" fill="#d9e6ea">DraftKings Casino</text>
+    <text x="130" y="455" fill="#d9e6ea">Caesars Palace Online</text>
+    <text x="130" y="520" fill="#d9e6ea">BetRivers Casino</text>
+
+    <rect x="830" y="240" width="680" height="520" rx="28" fill="#6a2e2e"/>
+    <text x="870" y="310" fill="#f4efe7" font-size="32" font-weight="700">Challenge / 403 via This Proxy</text>
+    <text x="870" y="390" fill="#f6d6d6">BetMGM Casino</text>
+    <text x="870" y="455" fill="#f6d6d6">FanDuel Casino</text>
+    <text x="870" y="555" fill="#f0c9a6" font-size="22">Interpretation: proxy usable for basic geo checks,</text>
+    <text x="870" y="590" fill="#f0c9a6" font-size="22">but not clean enough for every regulated brand.</text>
+  </g>
+</svg>
