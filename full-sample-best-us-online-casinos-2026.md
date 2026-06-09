@@ -65,55 +65,7 @@ This sample draft is based on official operator content and public company mater
 | BetMGM Casino | Best brand familiarity | Michigan, New Jersey, Pennsylvania, West Virginia | BetMGM Rewards, major brand trust | Strong mainstream loyalty play |
 
 ## Image Plan for This Article
-
-![Casino Review Evidence Board](assets/review-templates/casino-review-evidence-board.png)
-
-This article now includes two image layers:
-
-- review templates that show the asset plan for a full hands-on workflow
-- real public-page captures taken during this research session
-
-The public captures below are real screenshots. They should still be labeled accurately as public-page evidence, not logged-in account evidence.
-
-### Mobile Lobby Template
-
-![Mobile Lobby Capture Template](assets/review-templates/mobile-lobby-capture-template.png)
-
-Image placeholder: DraftKings mobile lobby screenshot after login  
-Alt text: DraftKings Casino mobile lobby during our June 2026 review session on iPhone 15 Pro  
-Caption: DraftKings mobile lobby captured during our June 2026 review planning, showing the logged-in game browsing experience
-
-### Cashier and Payment Template
-
-![Cashier and Payment Capture Template](assets/review-templates/cashier-payment-capture-template.png)
-
-Image placeholder: Caesars Palace Online deposit page with visible payment methods  
-Alt text: Caesars Palace Online cashier page showing available payment methods during our June 2026 review  
-Caption: Cashier view prepared for this review framework, intended to document visible payment methods before deposit
-
-### Live Support Template
-
-![Live Support Capture Template](assets/review-templates/live-support-capture-template.png)
-
-Image placeholder: BetRivers live support screenshot while the agent is replying  
-Alt text: BetRivers live support chat during our June 2026 review workflow  
-Caption: Planned support-chat evidence for the final hands-on version of this article, with response time to be recorded separately
-
-### License and Fairness Template
-
-![License and Fairness Proof Template](assets/review-templates/license-fairness-proof-template.png)
-
-Image placeholder: FanDuel responsible gambling tool screen  
-Alt text: FanDuel Casino responsible gambling settings reviewed during our June 2026 editorial process  
-Caption: FanDuel responsible gambling interface planned as an evidence asset for the final publish-ready version
-
-### Real-World Device Photo Template
-
-![Real-World Device Photo Template](assets/review-templates/real-world-device-photo-template.png)
-
-Image placeholder: BetMGM real-world device photo on desk  
-Alt text: Physical phone displaying BetMGM Casino during our June 2026 review session  
-Caption: Real-world device photo planned to support first-hand editorial presentation in the final version
+The images used below are either public-page captures taken during this review session or live registration-flow captures where available. They should be described precisely based on what they show. Public pages are not the same as logged-in evidence, and support entry points are not the same as completed support conversations.
 
 ## 1. DraftKings Casino
 
