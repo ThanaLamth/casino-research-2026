@@ -164,6 +164,9 @@ Do not present:
 - betrivers-signup-form-june-2026.png
   - Status: captured
   - Note: signup flow evidence, not logged-in proof
+- betrivers-signup-step2-june-2026.png
+  - Status: captured
+  - Note: confirms progression into security questions, phone number, and last-four-SSN step
 - betrivers-login-form-june-2026.png
   - Status: captured
   - Note: pre-login account access screen

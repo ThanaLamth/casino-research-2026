@@ -185,6 +185,10 @@ Caption: Public BetRivers casino landing page captured on June 9, 2026 during ou
 
 Caption: BetRivers Join Now form captured on June 9, 2026 during our review workflow. This is a real onboarding capture from the signup flow, not a logged-in account screen.
 
+![BetRivers signup step 2 captured during review](assets/review/betrivers/betrivers-signup-step2-june-2026.png)
+
+Caption: BetRivers signup Step 2 captured on June 9, 2026 during our review workflow. This confirms the account-creation flow proceeds into security questions, phone number, and last-four-SSN requirements.
+
 ![BetRivers login form captured during review](assets/review/betrivers/betrivers-login-form-june-2026.png)
 
 Caption: BetRivers login form captured on June 9, 2026 during our review workflow. This provides a real pre-login account-access asset for the review package.
@@ -219,6 +223,7 @@ BetRivers evidence status at this stage:
 
 - Public home page: captured
 - Signup form: captured
+- Signup step 2: captured
 - Login form: captured
 - Support-chat entry state: captured
 - Logged-in cashier page: pending
