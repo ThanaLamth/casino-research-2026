@@ -1,0 +1,9 @@
+{
+  "name": "casino-research-root-launcher",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "npm --prefix editor-app start",
+    "postinstall": "npm --prefix editor-app install"
+  }
+}

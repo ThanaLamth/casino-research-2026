@@ -35,6 +35,15 @@ The repo now includes a local web app for editorial production:
 - Railway config is included in `editor-app/railway.json`
 - healthcheck path: `/healthz`
 
+### Railway Fallback
+
+If you connect Railway to the repo root by mistake, the repo now includes:
+
+- a root `package.json`
+- a root `railway.json`
+
+These forward startup into `editor-app`, so the app can still boot from the repo root.
+
 ### Current Sample Template
 
 - `us-online-casinos-2026`
