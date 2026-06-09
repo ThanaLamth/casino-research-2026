@@ -11,7 +11,9 @@
       "required": true,
       "section": "BetRivers",
       "whyItMatters": "High-value onboarding evidence showing the first registration step.",
-      "captureNote": "Upload a redacted signup step 1 screenshot only."
+      "captureNote": "Upload a redacted signup step 1 screenshot only.",
+      "defaultAlt": "BetRivers signup step 1 with registration fields redacted during our June 2026 review",
+      "defaultCaption": "BetRivers Join Now Step 1 captured during our June 2026 review workflow, with registration fields redacted before publishing."
     },
     {
       "id": "betrivers_signup_step2",
@@ -19,7 +21,9 @@
       "required": true,
       "section": "BetRivers",
       "whyItMatters": "High-value onboarding evidence showing friction such as security questions, phone number, or last-four-SSN requirements.",
-      "captureNote": "Capture the next registration step without exposing personal data."
+      "captureNote": "Capture the next registration step without exposing personal data.",
+      "defaultAlt": "BetRivers signup step 2 showing security questions and identity friction during our June 2026 review",
+      "defaultCaption": "BetRivers signup Step 2 captured during our June 2026 review workflow, showing security questions, mobile phone number, and last-four-SSN requirements."
     },
     {
       "id": "betrivers_login_form",
@@ -27,7 +31,9 @@
       "required": true,
       "section": "BetRivers",
       "whyItMatters": "High-value account-access evidence proving a real pre-login flow.",
-      "captureNote": "Capture the login modal or account access screen."
+      "captureNote": "Capture the login modal or account access screen.",
+      "defaultAlt": "BetRivers login form captured during our June 2026 review workflow",
+      "defaultCaption": "BetRivers login form captured during our June 2026 review workflow as evidence of the real pre-login account access flow."
     },
     {
       "id": "betrivers_support_reply",
@@ -35,7 +41,9 @@
       "required": true,
       "section": "BetRivers",
       "whyItMatters": "High-value support evidence that proves a real support interaction, ideally with a visible reply.",
-      "captureNote": "Prefer a completed reply from support. If unavailable, upload the best support state you have and revise later."
+      "captureNote": "Prefer a completed reply from support. If unavailable, upload the best support state you have and revise later.",
+      "defaultAlt": "BetRivers support chat entry state captured during our June 2026 review workflow",
+      "defaultCaption": "BetRivers support chat entry state captured during our June 2026 review workflow. A completed agent reply should replace this image when available."
     },
     {
       "id": "caesars_trust_proof",
@@ -43,7 +51,9 @@
       "required": false,
       "section": "Caesars Palace Online",
       "whyItMatters": "Useful evidence for rewards, legal market, or responsible gambling claims.",
-      "captureNote": "Prefer licensing, responsible gaming, or onboarding proof over a generic homepage."
+      "captureNote": "Prefer licensing, responsible gaming, or onboarding proof over a generic homepage.",
+      "defaultAlt": "Caesars Palace Online trust or compliance proof captured during our June 2026 review workflow",
+      "defaultCaption": "Caesars Palace Online trust or compliance evidence captured during our June 2026 review workflow."
     },
     {
       "id": "fanduel_trust_proof",
@@ -51,7 +61,9 @@
       "required": false,
       "section": "FanDuel",
       "whyItMatters": "Useful evidence for responsible gaming or onboarding clarity claims.",
-      "captureNote": "Prefer responsible gaming, onboarding, or support-related proof."
+      "captureNote": "Prefer responsible gaming, onboarding, or support-related proof.",
+      "defaultAlt": "FanDuel trust or compliance proof captured during our June 2026 review workflow",
+      "defaultCaption": "FanDuel trust or compliance evidence captured during our June 2026 review workflow."
     },
     {
       "id": "betmgm_rewards_or_cashier",
@@ -59,7 +71,9 @@
       "required": false,
       "section": "BetMGM",
       "whyItMatters": "Useful evidence if you can capture a stronger rewards or payment proof than a public landing page.",
-      "captureNote": "Prefer cashier or logged-in rewards evidence if available."
+      "captureNote": "Prefer cashier or logged-in rewards evidence if available.",
+      "defaultAlt": "BetMGM rewards or cashier proof captured during our June 2026 review workflow",
+      "defaultCaption": "BetMGM rewards or cashier evidence captured during our June 2026 review workflow."
     }
   ]
 }
