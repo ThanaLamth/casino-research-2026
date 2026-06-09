@@ -26,7 +26,7 @@ This article is a source-led editorial sample focused on regulated US online cas
 
 Reviewer: Thana Lamth  
 Review Type: Source-led editorial review  
-Last Updated: June 8, 2026  
+Last Updated: June 9, 2026  
 Market Focus: Regulated United States online casinos  
 What We Reviewed: Official casino product pages, rewards programs, support materials, responsible gambling tools, and state availability guidance
 
@@ -66,21 +66,45 @@ This sample draft is based on official operator content and public company mater
 
 ## Image Plan for This Article
 
+![Casino Review Evidence Board](assets/review-templates/casino-review-evidence-board.png)
+
+This article now includes a visual template layer so the review workflow is easier to understand on GitHub before real evidence screenshots are added. These are editorial planning assets only. They are not presented as first-hand proof from the operators listed below.
+
+### Mobile Lobby Template
+
+![Mobile Lobby Capture Template](assets/review-templates/mobile-lobby-capture-template.png)
+
 Image placeholder: DraftKings mobile lobby screenshot after login  
 Alt text: DraftKings Casino mobile lobby during our June 2026 review session on iPhone 15 Pro  
 Caption: DraftKings mobile lobby captured during our June 2026 review planning, showing the logged-in game browsing experience
+
+### Cashier and Payment Template
+
+![Cashier and Payment Capture Template](assets/review-templates/cashier-payment-capture-template.png)
 
 Image placeholder: Caesars Palace Online deposit page with visible payment methods  
 Alt text: Caesars Palace Online cashier page showing available payment methods during our June 2026 review  
 Caption: Cashier view prepared for this review framework, intended to document visible payment methods before deposit
 
+### Live Support Template
+
+![Live Support Capture Template](assets/review-templates/live-support-capture-template.png)
+
 Image placeholder: BetRivers live support screenshot while the agent is replying  
 Alt text: BetRivers live support chat during our June 2026 review workflow  
 Caption: Planned support-chat evidence for the final hands-on version of this article, with response time to be recorded separately
 
+### License and Fairness Template
+
+![License and Fairness Proof Template](assets/review-templates/license-fairness-proof-template.png)
+
 Image placeholder: FanDuel responsible gambling tool screen  
 Alt text: FanDuel Casino responsible gambling settings reviewed during our June 2026 editorial process  
 Caption: FanDuel responsible gambling interface planned as an evidence asset for the final publish-ready version
+
+### Real-World Device Photo Template
+
+![Real-World Device Photo Template](assets/review-templates/real-world-device-photo-template.png)
 
 Image placeholder: BetMGM real-world device photo on desk  
 Alt text: Physical phone displaying BetMGM Casino during our June 2026 review session  
