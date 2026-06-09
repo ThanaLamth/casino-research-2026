@@ -71,10 +71,6 @@ The images used below are either public-page captures taken during this review s
 
 Best overall regulated US online casino
 
-![DraftKings public casino page captured during review](assets/review/draftkings/draftkings-public-casino-page-june-2026.png)
-
-Caption: Public DraftKings casino product page captured on June 9, 2026 during our review workflow. This supports product-positioning claims but is not a logged-in account screenshot.
-
 DraftKings earns the top position in this sample because it presents the strongest all-around package for a regulated US player. Its public-facing materials are clear, its casino identity is well developed, and its product pitch is not limited to a generic list of slot games and promotions. Instead, DraftKings positions itself as a full-featured casino product with live dealer coverage, exclusives, and broad game depth.
 
 That matters because the best overall pick in a casino roundup should not be chosen only for one isolated strength. It should be strong across multiple decision points. For many players, those decision points are not just bonus size or brand name. They also include usability, clarity, game variety, and confidence that the operator is truly built for the legal US market.
@@ -129,10 +125,6 @@ Caesars Palace Online is best for rewards-focused players, especially those who 
 
 Best for bonus usability and player-friendly utility
 
-![BetRivers public casino home captured during review](assets/review/betrivers/betrivers-public-home-june-2026.png)
-
-Caption: Public BetRivers casino landing page captured on June 9, 2026 during our review workflow. This supports public product and branding observations but is not a cashier or support capture.
-
 ![BetRivers signup step 1 with registration fields redacted](assets/review/betrivers/betrivers-signup-step1-redacted-june-2026.png)
 
 Caption: BetRivers Join Now Step 1 captured on June 9, 2026 during our review workflow. Registration fields were redacted before publishing to avoid exposing personal data.
@@ -173,7 +165,6 @@ BetRivers is best for players who are bonus-sensitive and want a clearer explana
 
 BetRivers evidence status at this stage:
 
-- Public home page: captured
 - Signup step 1 redacted: captured
 - Signup step 2: captured
 - Login form: captured
