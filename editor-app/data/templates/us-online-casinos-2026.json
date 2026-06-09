@@ -1,0 +1,65 @@
+{
+  "id": "us-online-casinos-2026",
+  "title": "Best US Online Casinos 2026",
+  "description": "Draft template with manual image slots for a publish-ready regulated-US casino article.",
+  "templateFile": "us-online-casinos-2026.template.md",
+  "outputFileName": "best-us-online-casinos-2026.publish-ready.md",
+  "slots": [
+    {
+      "id": "betrivers_signup_step1",
+      "label": "BetRivers Signup Step 1",
+      "required": true,
+      "section": "BetRivers",
+      "whyItMatters": "High-value onboarding evidence showing the first registration step.",
+      "captureNote": "Upload a redacted signup step 1 screenshot only."
+    },
+    {
+      "id": "betrivers_signup_step2",
+      "label": "BetRivers Signup Step 2",
+      "required": true,
+      "section": "BetRivers",
+      "whyItMatters": "High-value onboarding evidence showing friction such as security questions, phone number, or last-four-SSN requirements.",
+      "captureNote": "Capture the next registration step without exposing personal data."
+    },
+    {
+      "id": "betrivers_login_form",
+      "label": "BetRivers Login Form",
+      "required": true,
+      "section": "BetRivers",
+      "whyItMatters": "High-value account-access evidence proving a real pre-login flow.",
+      "captureNote": "Capture the login modal or account access screen."
+    },
+    {
+      "id": "betrivers_support_reply",
+      "label": "BetRivers Support Reply",
+      "required": true,
+      "section": "BetRivers",
+      "whyItMatters": "High-value support evidence that proves a real support interaction, ideally with a visible reply.",
+      "captureNote": "Prefer a completed reply from support. If unavailable, upload the best support state you have and revise later."
+    },
+    {
+      "id": "caesars_trust_proof",
+      "label": "Caesars Trust or Compliance Proof",
+      "required": false,
+      "section": "Caesars Palace Online",
+      "whyItMatters": "Useful evidence for rewards, legal market, or responsible gambling claims.",
+      "captureNote": "Prefer licensing, responsible gaming, or onboarding proof over a generic homepage."
+    },
+    {
+      "id": "fanduel_trust_proof",
+      "label": "FanDuel Trust or Compliance Proof",
+      "required": false,
+      "section": "FanDuel",
+      "whyItMatters": "Useful evidence for responsible gaming or onboarding clarity claims.",
+      "captureNote": "Prefer responsible gaming, onboarding, or support-related proof."
+    },
+    {
+      "id": "betmgm_rewards_or_cashier",
+      "label": "BetMGM Rewards or Cashier Proof",
+      "required": false,
+      "section": "BetMGM",
+      "whyItMatters": "Useful evidence if you can capture a stronger rewards or payment proof than a public landing page.",
+      "captureNote": "Prefer cashier or logged-in rewards evidence if available."
+    }
+  ]
+}

@@ -8,6 +8,31 @@ This repo contains working notes and a source-led sample article for June 2026 c
 - [best-us-online-casinos-june-2026.md](best-us-online-casinos-june-2026.md): source-led sample article draft
 - [source-notes-best-us-online-casinos-june-2026.md](source-notes-best-us-online-casinos-june-2026.md): source list and access-check notes
 - [full-sample-best-us-online-casinos-2026.md](full-sample-best-us-online-casinos-2026.md): full article sample with review-template image embeds
+- [image-evidence-priority-notes.md](image-evidence-priority-notes.md): image-priority rules for review evidence
+
+## Editor App
+
+The repo now includes a local web app for editorial production:
+
+- path: `editor-app`
+- purpose:
+  - load a draft template
+  - list manual image slots that editors must capture
+  - collect uploaded images, alt text, and captions
+  - generate a publish-ready markdown draft with the images stitched back into the article
+
+### Run Locally
+
+1. `cd editor-app`
+2. `npm install`
+3. `npm start`
+4. Open `http://localhost:4173`
+
+### Current Sample Template
+
+- `us-online-casinos-2026`
+- required slots are currently focused on the highest-value BetRivers onboarding and support assets
+- generated drafts are written to `editor-app/generated/` locally and are not committed
 
 ## Preview Assets
 
