@@ -181,9 +181,9 @@ Best for bonus usability and player-friendly utility
 
 Caption: Public BetRivers casino landing page captured on June 9, 2026 during our review workflow. This supports public product and branding observations but is not a cashier or support capture.
 
-![BetRivers signup form captured during review](assets/review/betrivers/betrivers-signup-form-june-2026.png)
+![BetRivers signup step 1 with registration fields redacted](assets/review/betrivers/betrivers-signup-step1-redacted-june-2026.png)
 
-Caption: BetRivers Join Now form captured on June 9, 2026 during our review workflow. This is a real onboarding capture from the signup flow, not a logged-in account screen.
+Caption: BetRivers Join Now Step 1 captured on June 9, 2026 during our review workflow. Registration fields were redacted before publishing to avoid exposing personal data.
 
 ![BetRivers signup step 2 captured during review](assets/review/betrivers/betrivers-signup-step2-june-2026.png)
 
@@ -222,7 +222,7 @@ BetRivers is best for players who are bonus-sensitive and want a clearer explana
 BetRivers evidence status at this stage:
 
 - Public home page: captured
-- Signup form: captured
+- Signup step 1 redacted: captured
 - Signup step 2: captured
 - Login form: captured
 - Support-chat entry state: captured
