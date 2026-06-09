@@ -68,7 +68,12 @@ This sample draft is based on official operator content and public company mater
 
 ![Casino Review Evidence Board](assets/review-templates/casino-review-evidence-board.png)
 
-This article now includes a visual template layer so the review workflow is easier to understand on GitHub before real evidence screenshots are added. These are editorial planning assets only. They are not presented as first-hand proof from the operators listed below.
+This article now includes two image layers:
+
+- review templates that show the asset plan for a full hands-on workflow
+- real public-page captures taken during this research session
+
+The public captures below are real screenshots. They should still be labeled accurately as public-page evidence, not logged-in account evidence.
 
 ### Mobile Lobby Template
 
@@ -114,6 +119,10 @@ Caption: Real-world device photo planned to support first-hand editorial present
 
 Best overall regulated US online casino
 
+![DraftKings public casino page captured during review](assets/review/draftkings/draftkings-public-casino-page-june-2026.png)
+
+Caption: Public DraftKings casino product page captured on June 9, 2026 during our review workflow. This supports product-positioning claims but is not a logged-in account screenshot.
+
 DraftKings earns the top position in this sample because it presents the strongest all-around package for a regulated US player. Its public-facing materials are clear, its casino identity is well developed, and its product pitch is not limited to a generic list of slot games and promotions. Instead, DraftKings positions itself as a full-featured casino product with live dealer coverage, exclusives, and broad game depth.
 
 That matters because the best overall pick in a casino roundup should not be chosen only for one isolated strength. It should be strong across multiple decision points. For many players, those decision points are not just bonus size or brand name. They also include usability, clarity, game variety, and confidence that the operator is truly built for the legal US market.
@@ -139,6 +148,10 @@ DraftKings is best for players who want the safest all-around recommendation in 
 
 Best for rewards and loyalty value
 
+![Caesars Palace Online public getting started page captured during review](assets/review/caesars-palace-online/caesars-public-getting-started-june-2026.png)
+
+Caption: Public Caesars Palace Online support and onboarding page captured on June 9, 2026 during our review workflow. This is public-page evidence rather than cashier or logged-in proof.
+
 Caesars Palace Online Casino ranks second because it has one of the clearest rewards-led value propositions in the category. While many brands talk about loyalty, Caesars has a more recognizable land-based and online bridge. For players who care about earning value within a larger gaming ecosystem, that matters.
 
 This is one of the few brands where loyalty is not just a side feature. It is one of the main reasons to choose the operator. Recent public Caesars materials continue to push rewards integration and exclusive online features, which reinforces that this is a central part of the product, not an afterthought.
@@ -163,6 +176,10 @@ Caesars Palace Online is best for rewards-focused players, especially those who 
 ## 3. BetRivers Casino
 
 Best for bonus usability and player-friendly utility
+
+![BetRivers public casino home captured during review](assets/review/betrivers/betrivers-public-home-june-2026.png)
+
+Caption: Public BetRivers casino landing page captured on June 9, 2026 during our review workflow. This supports public product and branding observations but is not a cashier or support capture.
 
 BetRivers stands out because it appears to think more carefully than most brands about how bonus value is actually experienced by players. Many casino operators market large offers, but the user experience around those offers is often vague, restrictive, or difficult to interpret. BetRivers makes a stronger case for practical value.
 
@@ -194,6 +211,10 @@ Caption: BetRivers promotional framework planned for image capture, with emphasi
 
 Best for simplicity and player guidance
 
+![FanDuel public Casino 101 page captured during review](assets/review/fanduel/fanduel-public-casino-101-june-2026.png)
+
+Caption: Public FanDuel Casino 101 page captured on June 9, 2026 during our review workflow. This supports clarity and onboarding analysis but is not logged-in evidence.
+
 FanDuel Casino performs well in this ranking because its public educational and onboarding materials are easier to understand than those of many competitors. That may sound like a small thing, but it matters more than many review pages acknowledge. Clear payment instructions, clearer responsible gambling language, and straightforward onboarding guidance reduce uncertainty for new or cautious users.
 
 In a category filled with aggressive promo language, clarity can become a real competitive advantage. FanDuel’s public pages do a better job than most of explaining basic player actions in plain language.
@@ -218,6 +239,10 @@ FanDuel is best for users who want a simpler introduction to regulated online ca
 ## 5. BetMGM Casino
 
 Best for loyalty crossover and mainstream familiarity
+
+![BetMGM public rewards page captured during review](assets/review/betmgm/betmgm-public-rewards-page-june-2026.png)
+
+Caption: Public BetMGM rewards page captured on June 9, 2026 during our review workflow. This supports rewards-related commentary but is not a logged-in or cashier screenshot.
 
 BetMGM remains an important brand in any regulated US casino conversation because of its mainstream familiarity, strong legacy-brand association, and loyalty positioning. It is the kind of operator that many users will recognize before they compare any details, and that recognition still matters.
 

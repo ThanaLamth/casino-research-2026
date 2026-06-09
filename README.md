@@ -25,3 +25,13 @@ These are planning templates for a proper review workflow. They are not first-ha
 - [live-support-capture-template.png](assets/review-templates/live-support-capture-template.png)
 - [license-fairness-proof-template.png](assets/review-templates/license-fairness-proof-template.png)
 - [real-world-device-photo-template.png](assets/review-templates/real-world-device-photo-template.png)
+
+## Public Review Captures
+
+These are real screenshots captured from public-facing pages during the June 9, 2026 research session. They are public-page evidence only and should not be described as logged-in or cashier proof.
+
+- [DraftKings public capture](assets/review/draftkings/draftkings-public-casino-page-june-2026.png)
+- [Caesars Palace Online public capture](assets/review/caesars-palace-online/caesars-public-getting-started-june-2026.png)
+- [BetRivers public capture](assets/review/betrivers/betrivers-public-home-june-2026.png)
+- [FanDuel public capture](assets/review/fanduel/fanduel-public-casino-101-june-2026.png)
+- [BetMGM public capture](assets/review/betmgm/betmgm-public-rewards-page-june-2026.png)
