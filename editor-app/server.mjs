@@ -17,6 +17,15 @@ app.use(express.json({ limit: "5mb" }));
 app.use("/generated", express.static(generatedDir));
 app.use(express.static(publicDir));
 
+app.get("/healthz", async (_req, res) => {
+  try {
+    await fs.mkdir(generatedDir, { recursive: true });
+    res.json({ ok: true });
+  } catch (error) {
+    res.status(500).json({ ok: false, error: String(error) });
+  }
+});
+
 async function loadTemplate(templateId) {
   const jsonPath = path.join(templatesDir, `${templateId}.json`);
   const templateConfig = JSON.parse(await fs.readFile(jsonPath, "utf8"));
@@ -147,6 +156,8 @@ app.post("/api/generate", upload.any(), async (req, res) => {
 });
 
 const port = Number(process.env.PORT || 4173);
-app.listen(port, () => {
-  console.log(`Editor app running at http://localhost:${port}`);
+const host = process.env.HOST || "0.0.0.0";
+await fs.mkdir(generatedDir, { recursive: true });
+app.listen(port, host, () => {
+  console.log(`Editor app running at http://${host}:${port}`);
 });

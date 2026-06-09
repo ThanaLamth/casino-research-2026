@@ -20,6 +20,7 @@ The repo now includes a local web app for editorial production:
   - list manual image slots that editors must capture
   - collect uploaded images, alt text, and captions
   - generate a publish-ready markdown draft with the images stitched back into the article
+- deploy-ready for Railway when the service root directory is set to `editor-app`
 
 ### Run Locally
 
@@ -27,6 +28,12 @@ The repo now includes a local web app for editorial production:
 2. `npm install`
 3. `npm start`
 4. Open `http://localhost:4173`
+
+### Railway
+
+- set service root directory to `editor-app`
+- Railway config is included in `editor-app/railway.json`
+- healthcheck path: `/healthz`
 
 ### Current Sample Template
 
