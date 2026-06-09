@@ -46,6 +46,20 @@ function safeSlug(value) {
     .slice(0, 80);
 }
 
+function buildSeoFilename(templateConfig, slot, file) {
+  const ext = (path.extname(file.originalname || "") || ".png").toLowerCase();
+  if (slot.seoFileBase) {
+    return `${safeSlug(slot.seoFileBase)}${ext}`;
+  }
+  const templateBase = safeSlug(
+    templateConfig.slug ||
+      templateConfig.outputFileName?.replace(/\.md$/i, "") ||
+      templateConfig.id,
+  );
+  const slotBase = safeSlug(slot.id);
+  return `${templateBase}-${slotBase}${ext}`.replace(/-+/g, "-");
+}
+
 app.get("/api/templates", async (_req, res) => {
   try {
     const files = await fs.readdir(templatesDir);
@@ -120,8 +134,7 @@ app.post("/api/generate", upload.any(), async (req, res) => {
         continue;
       }
 
-      const ext = path.extname(file.originalname || "") || ".png";
-      const filename = `${slot.id}${ext.toLowerCase()}`;
+      const filename = buildSeoFilename(templateConfig, slot, file);
       const diskPath = path.join(assetsDir, filename);
       await fs.writeFile(diskPath, file.buffer);
       const relativeImagePath = `assets/${filename}`;

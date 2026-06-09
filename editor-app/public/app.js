@@ -51,15 +51,21 @@ function renderSlotCard(slot) {
           Image file
           <input type="file" name="${slot.id}" accept="image/*" ${slot.required ? "required" : ""} />
         </label>
-        <label class="field-label">
-          Alt text
-          <input type="text" data-alt-for="${slot.id}" value="${slot.defaultAlt || ""}" placeholder="Describe what the image actually shows" ${slot.required ? "required" : ""} />
-        </label>
-        <label class="field-label">
-          Caption
-          <input type="text" data-caption-for="${slot.id}" value="${slot.defaultCaption || ""}" placeholder="Explain why this image matters in the review" ${slot.required ? "required" : ""} />
-        </label>
+        <p class="muted">SEO filename: ${slot.seoFileBase || slot.id}</p>
       </div>
+      <details class="slot-advanced">
+        <summary>Advanced edit: alt text and caption</summary>
+        <div class="slot-fields">
+          <label class="field-label">
+            Alt text
+            <input type="text" data-alt-for="${slot.id}" value="${slot.defaultAlt || ""}" placeholder="Describe what the image actually shows" ${slot.required ? "required" : ""} />
+          </label>
+          <label class="field-label">
+            Caption
+            <input type="text" data-caption-for="${slot.id}" value="${slot.defaultCaption || ""}" placeholder="Explain why this image matters in the review" ${slot.required ? "required" : ""} />
+          </label>
+        </div>
+      </details>
     </article>
   `;
 }
