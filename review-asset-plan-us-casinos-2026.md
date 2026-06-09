@@ -126,28 +126,28 @@ Do not present:
 - Filename: betrivers-mobile-lobby-june-2026.webp
 - Alt text: BetRivers Casino mobile lobby during our June 2026 review session
 - Caption: BetRivers mobile lobby captured during our June 2026 review, showing the logged-in game browsing view
-- Status: needed
+- Status: pending verification
 
 ### 2. Cashier or Deposit Page
 
 - Filename: betrivers-cashier-june-2026.webp
 - Alt text: BetRivers cashier page showing available payment methods during our June 2026 review
 - Caption: BetRivers cashier screen captured during our June 2026 review to document visible payment methods
-- Status: needed
+- Status: pending verification
 
 ### 3. Live Support
 
 - Filename: betrivers-live-support-june-2026.webp
 - Alt text: BetRivers live support chat during our June 2026 review session
 - Caption: BetRivers support interaction captured during our June 2026 review, with response timing recorded separately
-- Status: needed
+- Status: pending verification
 
 ### 4. Bonus or Trust Proof
 
 - Filename: betrivers-bonus-or-rg-proof-june-2026.webp
 - Alt text: BetRivers bonus or responsible gambling screen reviewed in June 2026
 - Caption: BetRivers bonus or trust signal captured during our June 2026 review process
-- Status: needed
+- Status: captured
 
 ### 5. Real-World Device Photo
 
@@ -155,6 +155,21 @@ Do not present:
 - Alt text: Physical phone displaying BetRivers Casino during our June 2026 review session
 - Caption: Real-world device photo of BetRivers Casino taken during our June 2026 review session
 - Status: needed
+
+### Supplemental Public-Flow Assets Captured
+
+- betrivers-public-home-june-2026.png
+  - Status: captured
+  - Note: public product page capture
+- betrivers-signup-form-june-2026.png
+  - Status: captured
+  - Note: signup flow evidence, not logged-in proof
+- betrivers-login-form-june-2026.png
+  - Status: captured
+  - Note: pre-login account access screen
+- betrivers-support-chat-loading-june-2026.png
+  - Status: captured
+  - Note: support chat entry point visible, no completed agent reply yet
 
 ## FanDuel Asset Set
 

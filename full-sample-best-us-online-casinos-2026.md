@@ -181,6 +181,18 @@ Best for bonus usability and player-friendly utility
 
 Caption: Public BetRivers casino landing page captured on June 9, 2026 during our review workflow. This supports public product and branding observations but is not a cashier or support capture.
 
+![BetRivers signup form captured during review](assets/review/betrivers/betrivers-signup-form-june-2026.png)
+
+Caption: BetRivers Join Now form captured on June 9, 2026 during our review workflow. This is a real onboarding capture from the signup flow, not a logged-in account screen.
+
+![BetRivers login form captured during review](assets/review/betrivers/betrivers-login-form-june-2026.png)
+
+Caption: BetRivers login form captured on June 9, 2026 during our review workflow. This provides a real pre-login account-access asset for the review package.
+
+![BetRivers support chat loading state captured during review](assets/review/betrivers/betrivers-support-chat-loading-june-2026.png)
+
+Caption: BetRivers support chat loading state captured on June 9, 2026 during our review workflow. This confirms access to the support-chat entry point, although a completed agent conversation still remains pending.
+
 BetRivers stands out because it appears to think more carefully than most brands about how bonus value is actually experienced by players. Many casino operators market large offers, but the user experience around those offers is often vague, restrictive, or difficult to interpret. BetRivers makes a stronger case for practical value.
 
 Its public materials repeatedly emphasize low-playthrough messaging, the Bonus Bank, the Bonus Store, and RUSHPAY. Even without a full cashier test, that creates a meaningful differentiation signal. It suggests that the operator understands that players care not just about what a bonus says on the banner, but how usable it feels inside the actual casino experience.
@@ -197,15 +209,19 @@ What holds it back
 
 - BetRivers has less mainstream consumer recognition than DraftKings, Caesars, or BetMGM.
 - State-by-state variation means editorial claims must be tightly localized.
-- Without live account-level testing, some usability claims still need evidence capture.
+- A true logged-in cashier capture still remains pending because this workflow has not completed a verified account signup.
 
 Who it is best for
 
 BetRivers is best for players who are bonus-sensitive and want a clearer explanation of what they are actually getting. It is also strong for readers who care more about operational practicality than about brand prestige.
 
-Image placeholder: BetRivers bonus feature screenshot  
-Alt text: BetRivers bonus feature page reviewed during our June 2026 editorial workflow  
-Caption: BetRivers promotional framework planned for image capture, with emphasis on user-facing bonus mechanics
+BetRivers evidence status at this stage:
+
+- Public home page: captured
+- Signup form: captured
+- Login form: captured
+- Support-chat entry state: captured
+- Logged-in cashier page: pending
 
 ## 4. FanDuel Casino
 
