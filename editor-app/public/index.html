@@ -3,50 +3,118 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Casino Review Editor</title>
+    <title>Casino Review Draft Queue</title>
     <link rel="stylesheet" href="/styles.css" />
   </head>
   <body>
     <div class="page">
       <header class="hero">
         <p class="eyebrow">Editorial Workflow</p>
-        <h1>Casino Review Draft Builder</h1>
+        <h1>Title to Draft Queue</h1>
         <p class="subhead">
-          Upload only high-value review images, then generate a publish-ready markdown draft with the images stitched back into the article.
+          Generate the article draft first, queue it for evidence collection, upload only high-value review images, then finalize a publish-ready markdown file when the required slots are filled.
         </p>
       </header>
 
       <main class="layout">
-        <section class="panel">
+        <section class="panel create-panel">
           <div class="panel-head">
-            <h2>Template</h2>
-            <select id="template-select"></select>
+            <h2>Create Draft</h2>
+            <span class="badge">Step 1</span>
           </div>
+          <form id="create-form" class="stack">
+            <label class="field-label">
+              Article title
+              <input id="article-title" type="text" placeholder="Best US Online Casinos for Fast Withdrawals 2026" />
+            </label>
+            <label class="field-label">
+              Template
+              <select id="template-select"></select>
+            </label>
+            <button id="create-article-btn" class="primary" type="submit">Generate Draft</button>
+          </form>
+          <p id="global-status" class="muted"></p>
           <p id="template-description" class="muted"></p>
           <div class="summary" id="template-summary"></div>
           <details class="draft-box">
-            <summary>View draft template</summary>
+            <summary>View template skeleton</summary>
             <pre id="draft-preview"></pre>
           </details>
         </section>
 
-        <section class="panel">
+        <section class="panel queue-panel">
           <div class="panel-head">
-            <h2>Image Slots</h2>
-            <p id="required-count" class="badge"></p>
+            <h2>Queue</h2>
+            <button id="refresh-btn" class="secondary" type="button">Refresh</button>
           </div>
-          <p class="muted">Upload the image only. Alt text, caption, and SEO filename are prefilled automatically. Use advanced edit only if you need to override them.</p>
-          <form id="slot-form" class="slots"></form>
-          <button id="generate-btn" class="primary">Generate Publish-Ready Draft</button>
-          <p id="status" class="muted"></p>
+          <div class="summary" id="queue-summary"></div>
+          <div id="article-list" class="article-list"></div>
         </section>
 
-        <section class="panel output">
+        <section class="panel detail-panel">
           <div class="panel-head">
-            <h2>Generated Output</h2>
-            <a id="download-link" class="download hidden" href="#" target="_blank" rel="noreferrer">Open generated markdown</a>
+            <div>
+              <h2 id="detail-title">Select an article</h2>
+              <p id="detail-subhead" class="muted compact"></p>
+            </div>
+            <a id="download-link" class="download hidden" href="#" target="_blank" rel="noreferrer">Open publish-ready markdown</a>
           </div>
-          <textarea id="generated-output" spellcheck="false" placeholder="Generated markdown will appear here"></textarea>
+          <div id="empty-state" class="empty-state">
+            Create a draft, then click it in the queue to upload images and finalize the article.
+          </div>
+
+          <div id="detail-view" class="hidden">
+            <div class="summary" id="article-summary"></div>
+
+            <section class="detail-section">
+              <div class="section-head">
+                <h3>Research and Outline</h3>
+                <span id="required-count" class="badge"></span>
+              </div>
+              <div class="dual">
+                <div>
+                  <h4>Research Summary</h4>
+                  <ul id="research-list" class="plain-list"></ul>
+                </div>
+                <div>
+                  <h4>Outline Queue</h4>
+                  <ul id="outline-list" class="plain-list"></ul>
+                </div>
+              </div>
+            </section>
+
+            <section class="detail-section">
+              <div class="section-head">
+                <h3>Fill Images</h3>
+                <span class="badge">Step 3</span>
+              </div>
+              <p class="muted">Upload the image only by default. Alt text and caption are prefilled automatically and stay hidden unless you expand advanced edit.</p>
+              <form id="slot-form" class="slots"></form>
+            </section>
+
+            <section class="detail-section">
+              <div class="section-head">
+                <h3>Finalize</h3>
+                <span class="badge">Step 4</span>
+              </div>
+              <button id="finalize-btn" class="primary" type="button">Finalize Publish-Ready Draft</button>
+              <p id="status" class="muted"></p>
+            </section>
+
+            <section class="detail-section output">
+              <div class="section-head">
+                <h3>Draft Preview</h3>
+              </div>
+              <textarea id="draft-output" spellcheck="false" readonly></textarea>
+            </section>
+
+            <section class="detail-section output">
+              <div class="section-head">
+                <h3>Publish-Ready Output</h3>
+              </div>
+              <textarea id="generated-output" spellcheck="false" placeholder="Finalize to generate markdown"></textarea>
+            </section>
+          </div>
         </section>
       </main>
     </div>

@@ -16,10 +16,11 @@ The repo now includes a local web app for editorial production:
 
 - path: `editor-app`
 - purpose:
-  - load a draft template
-  - list manual image slots that editors must capture
-  - collect uploaded images, alt text, and captions
-  - generate a publish-ready markdown draft with the images stitched back into the article
+  - enter a title and generate a draft article from a template
+  - push the draft into a queue with per-article status
+  - list manual image slots that editors must capture later
+  - collect uploaded images with SEO-friendly filenames and default alt/caption values
+  - finalize a publish-ready markdown draft with the images stitched back into the article
 - deploy-ready for Railway when the service root directory is set to `editor-app`
 
 ### Run Locally
@@ -28,6 +29,8 @@ The repo now includes a local web app for editorial production:
 2. `npm install`
 3. `npm start`
 4. Open `http://localhost:4173`
+5. Workflow:
+   - `Title -> Generate Draft -> Queue -> Fill Images -> Finalize`
 
 ### Railway
 
@@ -48,6 +51,7 @@ These forward startup into `editor-app`, so the app can still boot from the repo
 
 - `us-online-casinos-2026`
 - required slots are currently focused on the highest-value BetRivers onboarding and support assets
+- draft records are written to `editor-app/data/articles/`
 - generated drafts are written to `editor-app/generated/` locally and are not committed
 
 ## Preview Assets

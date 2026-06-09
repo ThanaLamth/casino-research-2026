@@ -4,16 +4,22 @@ This is a deployable web app for the casino review workflow.
 
 ## Purpose
 
-- load a draft template
-- show required manual image slots
-- let editors upload images, alt text, and captions
-- generate a publish-ready markdown draft with the images stitched back into the article
+- enter a title and generate a draft article from a template
+- queue generated drafts in a dashboard with status tracking
+- let editors upload required image evidence later
+- keep alt text and captions auto-filled by default, with optional advanced edit
+- finalize a publish-ready markdown file once the required slots are filled
 
 ## Local Run
 
 1. `npm install`
 2. `npm start`
 3. Open `http://localhost:4173`
+4. Use the workflow:
+   - create draft
+   - review queue
+   - upload images
+   - finalize output
 
 ## Railway Deploy
 
@@ -27,6 +33,7 @@ Recommended setup:
 
 ## Notes
 
-- Generated markdown and uploaded assets are written to `generated/`
+- Draft records are written to `data/articles/`
+- Generated markdown and uploaded assets are written to `generated/articles/`
 - Railway filesystem is ephemeral, so this is best for editorial generation and download, not long-term asset storage
 - For durable storage later, connect S3-compatible object storage or a database-backed asset layer
