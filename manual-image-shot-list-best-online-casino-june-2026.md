@@ -27,6 +27,13 @@ Working rule:
 
 ## DraftKings Casino
 
+Capture links:
+
+- Product overview: https://games.draftkings.com/about/casino/
+- Legal-market page: https://casino.draftkings.com/where-is-online-gambling-legal
+- Withdrawal help: https://help.draftkings.com/hc/en-us/articles/4405232405779-How-long-do-withdrawals-take-US
+- Support help: https://help.draftkings.com/hc/en-us/articles/4405223880339-How-do-I-contact-DraftKings-Customer-Support-US
+
 ### Cashier or Deposit Page
 
 - Article placement: DraftKings section after the current public-page screenshot
@@ -72,6 +79,13 @@ Working rule:
 - Status: Needed
 
 ## Caesars Palace Online Casino
+
+Capture links:
+
+- Getting started page: https://caesarspalaceonline.com/support/getting-started?state=pa
+- Caesars Rewards: https://www.caesars.com/myrewards
+- Rewards newsroom reference: https://newsroom.caesars.com/press-releases/press-release-details/2025/Caesars-Entertainment-Unveils-Caesars-Rewards-Shop-on-Caesars-Palace-Online-Casino-Unlocking-New-Ways-to-Redeem-Reward-Credits/default.aspx
+- Recent promo newsroom reference: https://newsroom.caesars.com/press-releases/press-release-details/2026/Caesars-Entertainment-Launches-Return-of--Millionaire-Maker-Series-for-Caesars-Rewards-Members-2026-gOU7og0pes/default.aspx
 
 ### Cashier or Deposit Page
 
@@ -119,6 +133,14 @@ Working rule:
 
 ## BetRivers Casino
 
+Capture links:
+
+- Main site: https://www.betrivers.com/
+- Pennsylvania rewards page: https://pa.betrivers.com/?page=rewards
+- New Jersey rewards page: https://nj.betrivers.com/?page=rewards
+- Bonus Store reference: https://pa.betrivers.com/?promotion=bonus-store
+- Getting started page: https://delawarepark.betrivers.com/?page=get-started
+
 ### Logged-In Cashier Page
 
 - Article placement: BetRivers section after the current signup and login images
@@ -165,6 +187,12 @@ Working rule:
 
 ## FanDuel Casino
 
+Capture links:
+
+- Getting started: https://www.fanduel.com/casino-101/getting-started/
+- Legal states page: https://www.fanduel.com/casino/states-where-online-casinos-are-legal
+- Responsible gaming: https://www.fanduel.com/casino-101/responsible-gaming/
+
 ### Cashier or Deposit Page
 
 - Article placement: FanDuel section after the current public guidance screenshot
@@ -199,6 +227,13 @@ Working rule:
 - Status: Needed
 
 ## BetMGM Casino
+
+Capture links:
+
+- Legal states guide: https://casino.betmgm.com/en/blog/what-states-is-betmgm-casino-legal-in/
+- State-specific bonuses guide: https://casino.betmgm.com/en/blog/guides/do-betmgm-casino-bonuses-differ-by-state/
+- BetMGM Rewards blog: https://casino.betmgm.com/en/blog/betmgm-rewards/
+- BetMGM Rewards page: https://www.betmgm.com/en/p/betmgmrewards
 
 ### Cashier or Deposit Page
 
